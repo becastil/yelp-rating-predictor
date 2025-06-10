@@ -37,10 +37,3 @@ The notebook walks through:
 
 ## 📁 Files
 - `yelp_exploration.ipynb`: Main Jupyter Notebook containing the full analysis and modeling workflow
-
----
-
-Let me know if you want to add:
-- Screenshots or visuals
-- A section on installation or environment setup
-- A badge (e.g., “Built with scikit-learn”)
